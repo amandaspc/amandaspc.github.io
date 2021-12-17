@@ -1,0 +1,99 @@
+* {
+	margin: 0;
+	padding: 0;
+	height: auto;
+}
+
+.header-1 {
+	font-family: 'Playfair Display', serif;
+	font-size: 14px;
+	display: flex;
+	justify-content: center;
+}
+
+.navbar {
+	font-family: 'Zilla Slab', serif;
+	font-size: 16px;
+	max-width: 100%;
+	margin: auto;
+}
+
+.subtitle {
+	font-family: 'Roboto Mono', monospace;
+	color: #CCAFAF;
+	font-size: 20px;
+	max-width: 100%;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+}
+
+.text-subtitle {
+	font-family: 'Zilla Slab', serif;
+	font-size: 17px;
+	max-width: 100%;
+	margin: auto;
+	text-align: center;
+}
+
+.subtitle2 {
+	font-family: 'Roboto Mono', monospace;
+	color: #CCAFAF;
+	font-size: 20px;
+	max-width: 100%;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+}
+
+.review {
+	font-family: 'Zilla Slab', serif;
+	font-size: 17px;
+	max-width: 100%;
+	margin: auto;
+}
+
+.subtitle3 {
+	font-family: 'Roboto Mono', monospace;
+	color: #CCAFAF;
+	font-size: 20px;
+	max-width: 100%;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+}
+
+.bestsellers-title {
+	font-family: 'Zilla Slab', serif;
+	font-size: 17px;
+	color: #000000;
+}
+
+.bestsellers-title:hover {
+	color: #C69F9F;
+	text-decoration: blink;
+}
+
+.footer-title1 {
+	font-family: 'Roboto Mono', monospace;
+	color: #000000;
+}
+
+.info {
+	font-family: 'Zilla Slab', serif;
+	color: #000000;
+	text-decoration: none;
+}
+
+.info:hover {
+	color: #000000;
+	text-decoration: none;
+}
+
+.footer2 {
+	color: #FFFFFF;
+	font-family: 'Playfair Display', serif;
+	font-size: 12px;
+	display: flex;
+	justify-content: center;
+}
